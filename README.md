@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠️ התקנה (Installation)
+##  התקנה (Installation)
 
 1. הורד או שכפל את הפרויקט:
    ```bash
