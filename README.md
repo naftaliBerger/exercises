@@ -9,11 +9,11 @@
 ## 🎮 צילומי מסך
 
 **מסך פתיחה**  
-![Menu Screenshot]("C:\Users\USER\Pictures\Screenshots\צילום מסך 2025-08-21 125018.png"
-)
+![Menu Screenshot](menu-background.jpg)
+
 
 **מסך משחק**  
-![Game Screenshot]("C:\Users\USER\Pictures\Screenshots\צילום מסך 2025-08-21 125250.png")
+![Game Screenshot](צילום מסך 2025-08-21 125250.png)
 
 ---
 
